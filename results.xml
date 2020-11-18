@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<CoffeeKinds>
+<Coffee
+Name = "FINEBERRY TANZANIA"
+Kind = "100% Арабіка"
+Price = "500-600 гривень"
+Country = "Танзанія"
+Caffeine = "Середньої міцності"
+Roasting = "Еспрессо"
+Grind = "Середній">
+</Coffee>
+</CoffeeKinds>

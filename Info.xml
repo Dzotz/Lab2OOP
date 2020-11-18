@@ -1,0 +1,84 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<CoffeeKinds>
+  <Coffee
+    Name = "FINEBERRY GUATEMALA"
+    Kind = "100% Арабіка"
+    Price = "600-700 гривень"
+    Country = "Гватемала"
+    Caffeine = "Легка кава"
+    Roasting = "Еспрессо"
+    Grind = "Дрібний">
+  </Coffee>
+  <Coffee
+    Name = "Lavazza Qualità Oro"
+    Kind = "100% Арабіка"
+    Price = "600-700 гривень"
+    Country = "Гватемала"
+    Caffeine = "Легка кава"
+    Roasting = "Еспрессо"
+    Grind = "Дрібний">
+  </Coffee>
+  <Coffee
+    Name = "FINEBERRY TANZANIA"
+    Kind = "100% Арабіка"
+    Price = "500-600 гривень"
+    Country = "Танзанія"
+    Caffeine = "Середньої міцності"
+    Roasting = "Еспрессо"
+    Grind = "Середній">
+  </Coffee>
+  <Coffee
+    Name = "LAVAZZA QUALITА ROSSA"
+    Kind = "70/30 Робуста та Арабіка"
+    Price = "500-600 гривень"
+    Country = "Бразилія"
+    Caffeine = "Середньої міцності"
+    Roasting = "Еспрессо"
+    Grind = "Середній">
+  </Coffee>
+  <Coffee
+    Name = "DOLCE AROMA CLASSIC"
+    Kind = "70/30 Робуста та Арабіка"
+    Price = "200-300 гривень"
+    Country = "Танзанія"
+    Caffeine = "Міцна кава"
+    Roasting = "Франузька"
+    Grind = "Середній">
+  </Coffee>
+  <Coffee
+    Name = "Lavazza Crema e Gusto"
+    Kind = "70/30 Робуста та Арабіка"
+    Price = "400-500 гривень"
+    Country = "Індія"
+    Caffeine = "Міцна кава"
+    Roasting = "Франузька"
+    Grind = "Середній">
+  </Coffee>
+  <Coffee
+    Name = "DOLCE AROMA ELITE"
+    Kind = "50/50 Робуста та Арабіка"
+    Price = "200-300 гривень"
+    Country = "Індія"
+    Caffeine = "Міцна кава"
+    Roasting = "Full City"
+    Grind = "Середній">
+  </Coffee>
+  <Coffee
+    Name = "LAVAZZA CREMA E GUSTO GUSTO DELICATO"
+    Kind = "50/50 Робуста та Арабіка"
+    Price = "500-600 гривень"
+    Country = "Танзанія"
+    Caffeine = "Середньої міцності"
+    Roasting = "Еспрессо"
+    Grind = "Грубий">
+  </Coffee>
+  <Coffee
+    Name = "SCHIRMER KAFFEE SELECTION SOLA BONA"
+    Kind = "50/50 Робуста та Арабіка"
+    Price = "600-700 гривень"
+    Country = "Бразилія"
+    Caffeine = "Середньої міцності"
+    Roasting = "Full City"
+    Grind = "Грубий">
+  </Coffee>
+</CoffeeKinds>

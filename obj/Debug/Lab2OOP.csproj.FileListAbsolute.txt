@@ -1,0 +1,10 @@
+C:\Users\HP\source\repos\Lab2OOP\Lab2OOP\bin\Debug\Lab2OOP.exe.config
+C:\Users\HP\source\repos\Lab2OOP\Lab2OOP\bin\Debug\Lab2OOP.exe
+C:\Users\HP\source\repos\Lab2OOP\Lab2OOP\bin\Debug\Lab2OOP.pdb
+C:\Users\HP\source\repos\Lab2OOP\Lab2OOP\obj\Debug\Lab2OOP.csprojAssemblyReference.cache
+C:\Users\HP\source\repos\Lab2OOP\Lab2OOP\obj\Debug\Lab2OOP.Form1.resources
+C:\Users\HP\source\repos\Lab2OOP\Lab2OOP\obj\Debug\Lab2OOP.Properties.Resources.resources
+C:\Users\HP\source\repos\Lab2OOP\Lab2OOP\obj\Debug\Lab2OOP.csproj.GenerateResource.cache
+C:\Users\HP\source\repos\Lab2OOP\Lab2OOP\obj\Debug\Lab2OOP.csproj.CoreCompileInputs.cache
+C:\Users\HP\source\repos\Lab2OOP\Lab2OOP\obj\Debug\Lab2OOP.exe
+C:\Users\HP\source\repos\Lab2OOP\Lab2OOP\obj\Debug\Lab2OOP.pdb
